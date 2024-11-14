@@ -2,7 +2,7 @@
 It is a smart wheelchair on which a robot arm is mounted to help patients move and manipulate objects
 ## Feauters
 the wheelchair and the robot arm can operate in 4 modes of operation  
-there is an ultrasonic sensor to detect any ostacle and a program is developped to avoid any crash
+there is an ultrasonic sensor to detect any obstacle and a program is developped to avoid any crash
 ## Modes of operation
 1-Manual mode  
 2-BCI mode  
