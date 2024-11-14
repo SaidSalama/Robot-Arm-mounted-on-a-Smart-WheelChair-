@@ -1,0 +1,16 @@
+#ifndef			NVIC_CONFIG_H
+#define			NVIC_CONFIG_H
+/*
+MNVIC_16_GROUP_0_SUB			
+MNVIC_8_GROUP_2_SUB				
+MNVIC_4_GROUP_4_SUB				
+MNVIC_2_GROUP_8_SUB				
+MNVIC_0_GROUP_16_SUB			
+*/
+#define MNVIC_GRP_SUB		MNVIC_4_GROUP_4_SUB
+
+
+#endif
+
+
+
